@@ -41,6 +41,7 @@ Share the .exe file with the target system via any medium or the HTTP server. On
 
 ## Step6: Establish a Connection
 On Kali linux, reopen the terminal and invoke "msfconsole".Follow the necessary steps to establish a connection with the victim's device.
+
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/123debe7-9cd0-4ccd-897c-e064ed3cfa7d" />
 
 ## Step7:List Commands
